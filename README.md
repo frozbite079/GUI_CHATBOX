@@ -5,7 +5,6 @@ Its an AI ChatBox :
 Google Drive Link:
 https://drive.google.com/file/d/1Ip6_nB8iCtRZfX6WenX4bjebf-42vdjk/view?usp=sharing
 
-
 following are the command you can use:
 
 list = ["hello", "hi"]
